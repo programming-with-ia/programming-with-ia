@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 About Me
+My Name is **Immi**<br>
 👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🔥 **Skills:**  <br>JavaScript, Typescript, React, Nextjs, Framer-Motion, Tailwind, CSS, Animation, Responsive Web, and *Python<br><br>⚡ **Fun fact:**  <br>I love creating content.
 
 
