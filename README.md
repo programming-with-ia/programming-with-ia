@@ -3,7 +3,7 @@
 
 
 ## Projects where work
-[Art-Gale-Studios](https://art-gale-studios.vercel.app)
-chat-app
-spotify-clone
-netflix-clone
+[Art-Gale-Studios](https://art-gale-studios.vercel.app)<br>
+chat-app<br>
+spotify-clone<br>
+netflix-clone<br>
