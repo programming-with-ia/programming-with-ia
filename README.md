@@ -42,4 +42,3 @@ netflix-clone<br>
 [whatsapp](https://wa.me/+923001065709)</br>
 [oimmi.com](https://oimmi.com)</br>
 [x.com](https://x.com/o_immi)</br>
-+923001065709</br>
